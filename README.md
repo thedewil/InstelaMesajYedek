@@ -21,8 +21,7 @@ Instela, 1 Mart 2024 tarihi itibariyle kapanıyor. Kapanmadan önce özel mesajl
     - "Application" veya "Uygulama" sekmesine gidin ve "Cookies" altında Instela web sitesinin çerezlerini bulun.
     - `PHPSESSID=xxxx; refresh_token=xxx;` şeklinde görünen iki değeri alın.
     - Bu değerleri programın istediği yerlere yapıştırın ve Enter'a basın.
-    [![Çalıştırma Görseli](https://github.com/thedewil/InstelaMesajYedek/raw/main/çalıştırma.png)
-](https://github.com/thedewil/InstelaMesajYedek/blob/main/Cookie.mp4?raw=true)
+    ![](https://github.com/thedewil/InstelaMesajYedek/blob/main/Cookie.mp4?raw=true)
 
 5. **Mesajların Yedeklenmesi**:
     - Program, sayfa sayfa mesajlarınızı alacak ve işlem tamamlandığında aynı klasöre `instela_mesaj_yedek.html` adında, mesajlarınızı içeren bir dosya oluşturacak.

@@ -15,7 +15,7 @@ Instela, 1 Mart 2024 tarihi itibariyle kapanıyor. Kapanmadan önce özel mesajl
     ```
     python app.py
     ```
-    [![Çalıştırma Görseli](https://github.com/thedewil/InstelaMesajYedek/raw/main/çalıştırma.png)](https://github.com/thedewil/InstelaMesajYedek/blob/main/c%CC%A7al%C4%B1s%CC%A7t%C4%B1rma.png?raw=true)
+    [[https://github.com/thedewil/InstelaMesajYedek/blob/main/c%CC%A7al%C4%B1s%CC%A7t%C4%B1rma.png?raw=true]]
 4. **Cookie/Çerez Bilgilerinin Girilmesi**:
     - Tarayıcınızda **F12**'ye basarak Geliştirici Konsolu'nu açın.
     - "Application" veya "Uygulama" sekmesine gidin ve "Cookies" altında Instela web sitesinin çerezlerini bulun.

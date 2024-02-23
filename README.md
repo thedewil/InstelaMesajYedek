@@ -15,14 +15,14 @@ Instela, 1 Mart 2024 tarihi itibariyle kapanıyor. Kapanmadan önce özel mesajl
     ```
     python app.py
     ```
-    ![Çalıştırma Görseli](https://github.com/thedewil/InstelaMesajYedek/raw/main/çalıştırma.png)
-
+    [![Çalıştırma Görseli](https://github.com/thedewil/InstelaMesajYedek/raw/main/çalıştırma.png)](https://github.com/thedewil/InstelaMesajYedek/blob/main/c%CC%A7al%C4%B1s%CC%A7t%C4%B1rma.png?raw=true)
 4. **Cookie/Çerez Bilgilerinin Girilmesi**:
     - Tarayıcınızda **F12**'ye basarak Geliştirici Konsolu'nu açın.
     - "Application" veya "Uygulama" sekmesine gidin ve "Cookies" altında Instela web sitesinin çerezlerini bulun.
     - `PHPSESSID=xxxx; refresh_token=xxx;` şeklinde görünen iki değeri alın.
     - Bu değerleri programın istediği yerlere yapıştırın ve Enter'a basın.
-    ![Çerez Bilgileri Video](https://github.com/thedewil/InstelaMesajYedek/raw/main/Cookie.mp4)
+    [![Çalıştırma Görseli](https://github.com/thedewil/InstelaMesajYedek/raw/main/çalıştırma.png)
+](https://github.com/thedewil/InstelaMesajYedek/blob/main/Cookie.mp4?raw=true)
 
 5. **Mesajların Yedeklenmesi**:
     - Program, sayfa sayfa mesajlarınızı alacak ve işlem tamamlandığında aynı klasöre `instela_mesaj_yedek.html` adında, mesajlarınızı içeren bir dosya oluşturacak.

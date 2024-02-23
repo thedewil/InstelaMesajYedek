@@ -21,7 +21,8 @@ Instela, 1 Mart 2024 tarihi itibariyle kapanıyor. Kapanmadan önce özel mesajl
     - "Application" veya "Uygulama" sekmesine gidin ve "Cookies" altında Instela web sitesinin çerezlerini bulun.
     - `PHPSESSID=xxxx; refresh_token=xxx;` şeklinde görünen iki değeri alın.
     - Bu değerleri programın istediği yerlere yapıştırın ve Enter'a basın.
-    ![Video]([https://github.com/thedewil/InstelaMesajYedek/assets/848362/8ae0ca68-32c4-451b-88ed-34c998327db4](https://github-production-user-asset-6210df.s3.amazonaws.com/848362/307294139-8ae0ca68-32c4-451b-88ed-34c998327db4.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240223%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240223T103931Z&X-Amz-Expires=300&X-Amz-Signature=8527d910380105fc4c9faf424fe7e5841366b283e4d3334f19a64dedee466e71&X-Amz-SignedHeaders=host&actor_id=848362&key_id=0&repo_id=762207722)
+
+![]([https://github.com/thedewil/InstelaMesajYedek/assets/848362/8ae0ca68-32c4-451b-88ed-34c998327db4](https://github-production-user-asset-6210df.s3.amazonaws.com/848362/307294139-8ae0ca68-32c4-451b-88ed-34c998327db4.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240223%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240223T103931Z&X-Amz-Expires=300&X-Amz-Signature=8527d910380105fc4c9faf424fe7e5841366b283e4d3334f19a64dedee466e71&X-Amz-SignedHeaders=host&actor_id=848362&key_id=0&repo_id=762207722)
 5. **Mesajların Yedeklenmesi**:
     - Program, sayfa sayfa mesajlarınızı alacak ve işlem tamamlandığında aynı klasöre `instela_mesaj_yedek.html` adında, mesajlarınızı içeren bir dosya oluşturacak.
 

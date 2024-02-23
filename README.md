@@ -9,14 +9,14 @@ Instela 1 Mart 2024 itibari ile kapanıyor. Kapanmadan özel mesajlarınızı ye
 3) Komut Satırı / Terminal açın. **app.py** dosyasının bulunduğu klasöre girin.
 
 4) **python app.py** yazarak programı çalıştırın:
-![Görsel](https://github.com/thedewil/InstelaMesajYedek/raw/main/çalıştırma.png)
+[[çalıştırma.png]]
 
 5) Yukarıdaki gibi cookie/çerez bilgilerinizi isteyecek. 
 
 Aşağıdaki şekilde, tarayıcınızdan ***F12**'ye basarak ve Geliştirici Konsolu kullanarak değerlerinizi bulun.
 
 PHPSESSID=xxxx; refresh_token=xxx; şeklinde görünen iki değeri almanız yeterlidir. 
-![Video](https://github.com/thedewil/InstelaMesajYedek/raw/main/Cookie.mp4)
+[[Cookie.mp4]]
 6) Bu değerleri buraya yapıştırarak Enter'a basın.
 7) Program sayfa sayfa mesajlarınızı alacak. İşlem tamamlandığında yine aynı klasörde **instela_mesaj_yedek.html** şeklinde, mesajlarınızı içeren bir dosya oluşturacak.
 

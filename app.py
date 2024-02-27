@@ -86,7 +86,7 @@ df = df.sort_values(by=['KonuID', 'Tarih'], ascending=[True, True])
 
 # HTML dosyasına yazdırmak için DataFrame'i biçimlendirme kodunu değiştirin
 html_dosya_yolu = 'instela_mesaj_yedek.html'
-with open(html_dosya_yolu, 'w') as html_dosyası:
+with open(html_dosya_yolu, 'w', encoding='utf-8') as html_dosyası:  # Kodlamayı burada belirtin
     # HTML içeriğini yazmaya başlayın
     html_dosyası.write("<!DOCTYPE html>\n<html>\n<head>\n<title>Instela Mesaj Yedek</title>\n</head>\n<body>\n")
 
